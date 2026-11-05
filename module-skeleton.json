@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-express-checkout-filament",
+  "capabilityKey": "planned:ecommerce:express-checkout",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-express-checkout-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/express-checkout.md",
+  "presentationPlan": "projects/ecommerce/filament/express-checkout.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
